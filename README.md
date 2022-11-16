@@ -1,12 +1,12 @@
 # Top Tourist Attraction for Each State in the USA
-A collection of data, in JSON format, on the top tourist attraction in each state of the United States. The data found in this file is pulled from a few websites found in the [sources section](#sources) of this file.
+A collection of data, in JSON format, on the top tourist attraction in each state of the United States. The data found in this file is pulled from a few websites found in the [sources section](#sources).
 
 # Structure of JSON File
 ```
-+-- state       (state Name)
++-- state       (state name)
 +-- attraction  (name of the tourist attraction)
 +-- coordinates (longitude and latitude of the attraction)
-+-- category    (what kind of attraction is it (options are nature, museum, or amusement))
++-- category    (what kind of attraction it is (options are nature, museum, or amusement))
 ```
 
 # Sources
