@@ -1,0 +1,303 @@
+[
+    {
+        "state": "Alabama",
+        "attraction": "U.S. Space & Rocket Center",
+        "coordinates": "34.711317388921834, -86.6539041155152",
+        "category": "museum"
+    },
+    {
+        "state": "Alaska",
+        "attraction": "Denali National Park",
+        "coordinates": "63.21582174257647, -151.14916532179282",
+        "category": "nature"
+    },
+    {
+        "state": "Arizona",
+        "attraction": "Grand Canyon National Park",
+        "coordinates": "36.198089479504766, -112.12400340323562",
+        "category": "nature"
+    },
+    {
+        "state": "Arkansas",
+        "attraction": "Garvan Woodland Gardens",
+        "coordinates": "34.43474571306029, -93.04698981552015",
+        "category": "nature"
+    },
+    {
+        "state": "California",
+        "attraction": "Golden Gate Park",
+        "coordinates": "37.76960736046726, -122.48622453079828",
+        "category": "nature"
+    },
+    {
+        "state": "Colorado",
+        "attraction": "Rocky Mountain National Park",
+        "coordinates": "40.36609090893884, -105.6792536045554",
+        "category": "nature"
+    },
+    {
+        "state": "Connecticut",
+        "attraction": "Mystic Seaport Museum",
+        "coordinates": "41.36006282002369, -71.96364253575051",
+        "category": "museum"
+    },
+    {
+        "state": "Delaware",
+        "attraction": "Rehoboth Beach Boardwalk",
+        "coordinates": "38.716596521610036, -75.07606480959747",
+        "category": "amusement"
+    },
+    {
+        "state": "Florida",
+        "attraction": "Magic Kingdom, Walt Disney World",
+        "coordinates": "28.41867582232248, -81.58118781025543",
+        "category": "amusement"
+    },
+    {
+        "state": "Georgia",
+        "attraction": "Stone Mountain Park",
+        "coordinates": "33.80554175393393, -84.14555295970716",
+        "category": "nature"
+    },
+    {
+        "state": "Hawaii",
+        "attraction": "Diamond Head State Monument",
+        "coordinates": "21.263978357374533, -157.80409430220934",
+        "category": "nature"
+    },
+    {
+        "state": "Idaho",
+        "attraction": "Craters of the Moon National Monument & Preserve",
+        "coordinates": "43.20597872418781, -113.50018093068383",
+        "category": "nature"
+    },
+    {
+        "state": "Illinois",
+        "attraction": "Navy Pier",
+        "coordinates": "41.89194408282581, -87.60511663830503",
+        "category": "amusement"
+    },
+    {
+        "state": "Indiana",
+        "attraction": "Children's Museum of Indianapolis",
+        "coordinates": "39.810786251051965, -86.15791315959243",
+        "category": "museum"
+    },
+    {
+        "state": "Iowa",
+        "attraction": "Reiman Gardens",
+        "coordinates": "42.01215073896335, -93.63827704420477",
+        "category": "nature"
+    },
+    {
+        "state": "Kansas",
+        "attraction": "Garden of Eden",
+        "coordinates": "39.821194211711365, -98.44848771244484",
+        "category": "museum"
+    },
+    {
+        "state": "Kentucky",
+        "attraction": "Mammoth Cave National Park",
+        "coordinates": "37.18759386242865, -86.10006124703412",
+        "category": "nature"
+    },
+    {
+        "state": "Louisiana",
+        "attraction": "The National WWII Museum",
+        "coordinates": "29.94329420415041, -90.07054243093503",
+        "category": "museum"
+    },
+    {
+        "state": "Maine",
+        "attraction": "Acadia National Park",
+        "coordinates": "44.35121864236275, -68.27690381665228",
+        "category": "nature"
+    },
+    {
+        "state": "Maryland",
+        "attraction": "Fort McHenry National Monument & Historic Shrine",
+        "coordinates": "39.26433326563325, -76.58070577494439",
+        "category": "museum"
+    },
+    {
+        "state": "Massachusetts",
+        "attraction": "Faneuil Hall Marketplace",
+        "coordinates": "42.36029996816557, -71.05514668837303",
+        "category": "amusement"
+    },
+    {
+        "state": "Michigan",
+        "attraction": "Detroit Institute of Arts",
+        "coordinates": "42.35954576472541, -83.06454391720827",
+        "category": "museum"
+    },
+    {
+        "state": "Minnesota",
+        "attraction": "Mall of America",
+        "coordinates": "44.85508923905756, -93.24219323728504",
+        "category": "amusement"
+    },
+    {
+        "state": "Mississippi",
+        "attraction": "Mississippi Petrified Forest",
+        "coordinates": "32.51440697158717, -90.32293954438848",
+        "category": "nature"
+    },
+    {
+        "state": "Missouri",
+        "attraction": "Gateway Arch National Park",
+        "coordinates": "38.625237580679446, -90.18666464427591",
+        "category": "nature"
+    },
+    {
+        "state": "Montana",
+        "attraction": "Glacier National Park",
+        "coordinates": "48.76390548278669, -113.82397679423175",
+        "category": "nature"
+    },
+    {
+        "state": "Nebraska",
+        "attraction": "Omaha's Henry Doorly Zoo and Aquarium",
+        "coordinates": "41.226050373954465, -95.92712003072738",
+        "category": "amusement"
+    },
+    {
+        "state": "Nevada",
+        "attraction": "Las Vegas Strip",
+        "coordinates": "36.125673966340685, -115.18060498084516",
+        "category": "amusement"
+    },
+    {
+        "state": "New Hampshire",
+        "attraction": "Lost River Gorge & Boulder Caves",
+        "coordinates": "44.037404661208846, -71.78410273066498",
+        "category": "nature"
+    },
+    {
+        "state": "New Jersey",
+        "attraction": "Island Beach State Park",
+        "coordinates": "39.80300430400244, -74.09703781848201",
+        "category": "nature"
+    },
+    {
+        "state": "New Mexico",
+        "attraction": "Georgia O'Keeffe Museum",
+        "coordinates": "35.68935209955455, -105.94129180200298",
+        "category": "museum"
+    },
+    {
+        "state": "New York",
+        "attraction": "Times Square",
+        "coordinates": "40.75802048708171, -73.98554203627468",
+        "category": "amusement"
+    },
+    {
+        "state": "North Carolina",
+        "attraction": "Biltmore Estate",
+        "coordinates": "35.54077032690496, -82.55232996485567",
+        "category": "museum"
+    },
+    {
+        "state": "North Dakota",
+        "attraction": "Theodore Roosevelt National Park",
+        "coordinates": "46.99046954988406, -103.54413628542609",
+        "category": "nature"
+    },
+    {
+        "state": "Ohio",
+        "attraction": "Cedar Point",
+        "coordinates": "41.48755643642606, -82.68402183496313",
+        "category": "amusement"
+    },
+    {
+        "state": "Oklahoma",
+        "attraction": "Oklahoma City National Memorial & Museum",
+        "coordinates": "35.473298116427785, -97.5170700308421",
+        "category": "museum"
+    },
+    {
+        "state": "Oregon",
+        "attraction": "Crater Lake National Park",
+        "coordinates": "42.95561133217833, -122.11773212280308",
+        "category": "nature"
+    },
+    {
+        "state": "Pennsylvania",
+        "attraction": "Liberty Bell Center",
+        "coordinates": "39.95037567432298, -75.15011268657841",
+        "category": "museum"
+    },
+    {
+        "state": "Rhode Island",
+        "attraction": "The Breakers",
+        "coordinates": "41.46996066660852, -71.29817402887588",
+        "category": "museum"
+    },
+    {
+        "state": "South Carolina",
+        "attraction": "Middleton Place National Historic Landmark",
+        "coordinates": "32.90015928441264, -80.13775827321716",
+        "category": "museum"
+    },
+    {
+        "state": "South Dakota",
+        "attraction": "Mount Rushmore National Monument",
+        "coordinates": "43.879288080127054, -103.45908815950375",
+        "category": "nature"
+    },
+    {
+        "state": "Tennessee",
+        "attraction": "Grand Ole Opry",
+        "coordinates": "36.20705619051077, -86.69206558665252",
+        "category": "amusement"
+    },
+    {
+        "state": "Texas",
+        "attraction": "San Antonio's River Walk",
+        "coordinates": "29.423088437021953, -98.48467267327251",
+        "category": "amusement"
+    },
+    {
+        "state": "Utah",
+        "attraction": "Bryce Canyon National Park",
+        "coordinates": "37.61505899216393, -112.18729231768583",
+        "category": "nature"
+    },
+    {
+        "state": "Vermont",
+        "attraction": "Shelburne Museum",
+        "coordinates": "44.374674434309696, -73.23222128154242",
+        "category": "museum"
+    },
+    {
+        "state": "Virginia",
+        "attraction": "Mount Vernon",
+        "coordinates": "38.71073800383644, -77.0860071682849",
+        "category": "museum"
+    },
+    {
+        "state": "Washington",
+        "attraction": "Pike Place Market",
+        "coordinates": "47.60924719086477, -122.34056085415547",
+        "category": "amusement"
+    },
+    {
+        "state": "West Virginia",
+        "attraction": "New River Gorge National Park & Preserve",
+        "coordinates": "37.875399924392326, -81.03571128846667",
+        "category": "nature"
+    },
+    {
+        "state": "Wisconsin",
+        "attraction": "Harley Davidson Museum",
+        "coordinates": "43.031854899132966, -87.9165351291714",
+        "category": "museum"
+    },
+    {
+        "state": "Wyoming",
+        "attraction": "Yellowstone National Park",
+        "coordinates": "44.466936923254366, -110.58831801661422",
+        "category": "nature"
+    }
+    
+]
